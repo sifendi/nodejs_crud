@@ -1,0 +1,28 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jQuery.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sifendi/nodejs_crud.git"
+  },
+  "keywords": [
+    "package"
+  ],
+  "author": "afendi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sifendi/nodejs_crud/issues"
+  },
+  "homepage": "https://github.com/sifendi/nodejs_crud#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "hbs": "^4.0.4",
+    "mysql": "^2.17.1"
+  }
+}
